@@ -1,30 +1,26 @@
-# MCT Department Website - Daffodil International University  
+# MCT Department Landing Page  
 
-This website is designed for the Multimedia & Creative Technology (MCT) department of Daffodil International University. It provides information about the department, its facilities, admission process, and programs.  
+This is a static landing page created for the Multimedia & Creative Technology (MCT) department of Daffodil International University.  
 
 ## Features  
-- Clean and responsive design.  
-- Information about the department's facilities and offerings.  
-- Admission section with quick links for applying, tuition fee, eligibility, and scholarships.  
+- A clean and static design showcasing the MCT department's information.  
+- Dedicated sections for admission, facilities, and departmental highlights.  
 
 ## Technologies Used  
-- **HTML5**: For structuring the website's content.  
-- **CSS3**: For styling and layout customization using raw CSS as per the client's requirement.  
+- **HTML5**: For structuring the content.  
+- **CSS3**: For styling and layout customization.  
 
-## Requirements  
-No external dependencies or libraries are used. The website runs directly in any modern browser.  
+## Live Preview  
+[View the live preview here](https://rezaul003.github.io/mct-daffodil-for-client/).  
 
 ## Project Structure  
 
-## How to Run  
+## How to Use  
 1. Download or clone the repository.  
-2. Open the `index.html` file in any web browser.  
-
-## Live Preview  
-[Provide a link to the live version if hosted online]  
+2. Open the `index.html` file in a web browser to view the page.  
 
 ## Author  
 Developed by Rezaul Karim, a front-end web developer, as a client project.  
 
 ## License  
-This project is for the client only and not intended for public use without permission.
+This project is intended for the client's use only. 
